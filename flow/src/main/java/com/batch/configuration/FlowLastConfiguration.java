@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Created by USER on 2017-08-16.
  */
-//@Configuration
+@Configuration
 public class FlowLastConfiguration {
     @Autowired
     public JobBuilderFactory jobBuilderFactory;
